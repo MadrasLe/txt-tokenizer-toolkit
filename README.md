@@ -3,9 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗-Transformers-orange)
 ![HF Datasets](https://img.shields.io/badge/🤗-Datasets-yellow)
+![lang](https://img.shields.io/badge/lang-PT--BR-green?style=flat&logo=google-translate)
 
-- 🇧🇷 README em Português
-- 
 Script pra preparar **pré-treino de LLM** a partir de um `.txt`.
 
 * Tokeniza com Hugging Face
