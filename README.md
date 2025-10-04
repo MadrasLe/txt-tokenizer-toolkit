@@ -1,5 +1,11 @@
 # tokenizer_script_for_any_txt
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗-Transformers-orange)
+![HF Datasets](https://img.shields.io/badge/🤗-Datasets-yellow)
 
+- 🇧🇷 README em Português
+- 
 Script pra preparar **pré-treino de LLM** a partir de um `.txt`.
 
 * Tokeniza com Hugging Face
